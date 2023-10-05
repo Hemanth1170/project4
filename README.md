@@ -28,7 +28,7 @@
 |**Line item unit of measure**<br>BusinessPartnerID|
 
 ## project4
-
+This fiori app contains table with serach bar, sort, filter, group by, functionalities
 
 
 ### Starting the generated app
